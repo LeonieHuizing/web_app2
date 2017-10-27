@@ -1,0 +1,89 @@
+2017-10-23 10:49:05,303 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-23 10:50:28,580 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-rest-service:0.1.0 @ D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\pom.xml.
+2017-10-23 10:50:31,013 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-23 10:50:31,014 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-23 10:50:31,014 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-23 10:50:31,017 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-23 10:50:31,018 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-23 10:50:33,403 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-rest-service:0.1.0 @ D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\pom.xml.
+2017-10-23 10:50:33,832 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-23 10:50:33,832 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-23 10:50:33,832 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-23 10:50:33,836 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-23 10:50:33,836 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-23 10:50:36,311 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-23 10:50:36,311 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-23 10:50:36,311 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-23 10:50:36,316 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-23 10:50:36,316 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 10:25:07,301 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-26 13:03:57,886 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:03:57,886 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:03:57,886 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:03:57,886 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:03:57,886 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 13:06:55,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:06:55,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:06:55,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:06:55,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:06:55,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 13:08:21,515 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:08:21,515 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:08:21,515 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:08:21,515 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:08:21,515 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 13:17:43,907 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:17:43,907 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:17:43,907 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:17:43,923 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:17:43,923 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 13:29:37,472 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:29:37,472 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:29:37,472 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 13:29:37,488 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 13:29:37,488 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 14:28:53,569 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 14:28:53,569 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 14:28:53,569 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 14:28:53,569 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 14:28:53,569 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 14:32:23,542 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 14:32:23,542 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 14:32:23,542 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 14:32:23,542 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 14:32:23,542 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 14:38:54,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 14:38:54,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 14:38:54,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 14:38:54,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 14:38:54,512 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 15:15:07,220 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 15:15:07,220 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 15:15:07,220 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 15:15:07,220 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 15:15:07,220 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 15:25:05,780 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 15:25:05,780 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 15:25:05,780 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 15:25:05,780 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 15:25:05,780 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 15:37:15,505 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 15:37:15,505 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 15:37:15,505 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 15:37:15,505 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 15:37:15,505 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 16:19:15,412 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-rest-service:0.1.0 @ D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\pom.xml.
+2017-10-26 16:19:16,764 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2017-10-26 16:19:16,896 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom
+2017-10-26 16:19:17,191 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2017-10-26 16:19:17,496 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2017-10-26 16:19:18,226 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 16:19:18,227 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 16:19:18,227 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 16:19:18,230 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 16:19:18,231 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
+2017-10-26 16:19:20,945 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 16:19:20,946 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 16:19:20,954 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\main\resources
+2017-10-26 16:19:20,973 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-26 16:19:20,974 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\lhuizing\Documents\Projecten\KLM\api4\operations\src\test\resources
