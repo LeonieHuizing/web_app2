@@ -1,0 +1,20 @@
+package com.klm.api.operations.roster;
+
+public class OperationRoster {
+	private final String employeeId;
+    private final String employeeName;
+    
+    
+    public OperationRoster(String employeeId, String employeeName) {
+    	this.employeeId = employeeId;
+        this.employeeName = employeeName;
+    }
+
+    public String getEmployeeId() {
+        return employeeId;
+    }
+
+    public String getEmployeeName() {
+        return employeeName;
+    }
+}
