@@ -1,6 +1,0 @@
-com/klm/myroster/model/Csv.class
-com/klm/myroster/Main.class
-com/klm/myroster/repository/CsvRepository.class
-com/klm/myroster/controller/RosterController.class
-com/klm/myroster/model/Roster.class
-com/klm/myroster/services/RosterServices.class
