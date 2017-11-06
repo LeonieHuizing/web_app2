@@ -1,0 +1,81 @@
+package com.klm.api.operations.controller;
+
+import com.klm.api.operations.roster.OperationRoster;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.springframework.web.bind.annotation.PathVariable;
+
+
+@RestController
+public class OperationController {
+	
+	//Create new instance of the object OperationRoster
+	OperationRoster employee1 = new OperationRoster(111, "Appel");
+	OperationRoster employee2 = new OperationRoster(222, "Banaan");
+	OperationRoster employee3 = new OperationRoster(333, "Mandarijn");
+	OperationRoster employee4 = new OperationRoster(444, "Mandarijn");
+	
+	//Fill the listArray (Roster) with the new employee
+	List<OperationRoster> Roster = new ArrayList<OperationRoster>();
+		{
+			Roster.add(employee1);
+			Roster.add(employee2);
+			Roster.add(employee3);
+		}
+		
+	@RequestMapping(value = "/v1/employee/{employeeId}", method = RequestMethod.GET)
+    public OperationRoster getOperationRosterForEmployee(@PathVariable("employeeId") String employeeId) { 	
+		OperationRoster resultX = filterRosterDataByID(Roster, employeeId);
+		System.out.println(resultX);
+	return(resultX);
+	}
+	
+	public OperationRoster filterRosterDataByID(List<OperationRoster> Roster, String employeeId){
+		OperationRoster resultX = null;
+		for (OperationRoster temp: Roster){
+			if(employeeId.equals(temp.getEmployeeId())){
+				resultX=temp;
+			}
+		}
+	 }
+}
+		
+		
+		
+		
+		
+		//OperationRoster result1 = Roster.stream()		
+
+				
+				
+				
+				
+				
+				//				.filter((p) -> "Mandarijn".equals(p.getEmployeeName()))
+//			    .collect(Collectors.toList());              // collect the output and convert streams to a List
+//		        //result1.forEach(System.out::println);      //output : spring, node
+//				
+//	 return (result1);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+				
+				//.findAny()
+//				.orElse(null);
+//		
+//		return (result1);
+//    }
+//    
+//}  

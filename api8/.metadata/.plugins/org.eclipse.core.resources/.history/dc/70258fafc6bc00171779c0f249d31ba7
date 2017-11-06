@@ -1,0 +1,20 @@
+package com.klm.api.myro.services;
+
+import java.util.List;
+
+import com.klm.api.myro.model.Roster;
+
+public class RosterServices {
+
+	public List<Roster> getAllRosters(){
+		Roster employee1 = new Roster(123, "hello", "Alfa");
+		Roster employee2 = new Roster(456, "bye", "Beta");
+		
+		List<Roster> rosterList = new ArrayList<>();
+			rosterList.add(employee1);
+			rosterList.add(employee2);
+	
+			return rosterList;
+	}
+	
+}
